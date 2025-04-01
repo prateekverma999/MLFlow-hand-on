@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLFlow-hand-on/mlruns/228724391152799843/f3c3662261c64b06816b34600a694d09/artifacts
+end_time: 1743495326072
+entry_point_name: ''
+experiment_id: '228724391152799843'
+lifecycle_stage: active
+run_id: f3c3662261c64b06816b34600a694d09
+run_name: capable-lynx-448
+run_uuid: f3c3662261c64b06816b34600a694d09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743495326062
+status: 3
+tags: []
+user_id: codespace

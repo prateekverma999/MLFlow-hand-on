@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLFlow-hand-on/mlruns/228724391152799843/8e6e0180c8694b38bbbb2b633ce85aa7/artifacts
+end_time: 1743495198118
+entry_point_name: ''
+experiment_id: '228724391152799843'
+lifecycle_stage: active
+run_id: 8e6e0180c8694b38bbbb2b633ce85aa7
+run_name: intelligent-cub-609
+run_uuid: 8e6e0180c8694b38bbbb2b633ce85aa7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743495198109
+status: 4
+tags: []
+user_id: codespace
