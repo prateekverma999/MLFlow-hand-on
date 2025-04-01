@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLFlow-hand-on/mlruns/734812851892723199/c1b2167afb874bc0873b17bd7b2b8c75/artifacts
+end_time: 1743517765806
+entry_point_name: ''
+experiment_id: '734812851892723199'
+lifecycle_stage: active
+run_id: c1b2167afb874bc0873b17bd7b2b8c75
+run_name: thundering-ox-305
+run_uuid: c1b2167afb874bc0873b17bd7b2b8c75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743517761500
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,12 @@
+digest: 751b576a
+name: dataset
+profile: '{"num_rows": 4128, "num_elements": 33024}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "MedInc", "required": true},
+  {"type": "double", "name": "HouseAge", "required": true}, {"type": "double", "name":
+  "AveRooms", "required": true}, {"type": "double", "name": "AveBedrms", "required":
+  true}, {"type": "double", "name": "Population", "required": true}, {"type": "double",
+  "name": "AveOccup", "required": true}, {"type": "double", "name": "Latitude", "required":
+  true}, {"type": "double", "name": "Longitude", "required": true}]}'
+source: '{"tags": {"mlflow.user": "codespace", "mlflow.source.name": "mlflow_train.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "35332495bc19821e568db82d994b42a02cf4a3fc"}}'
+source_type: code

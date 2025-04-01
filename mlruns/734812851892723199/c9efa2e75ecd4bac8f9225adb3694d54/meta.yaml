@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLFlow-hand-on/mlruns/734812851892723199/c9efa2e75ecd4bac8f9225adb3694d54/artifacts
+end_time: 1743499837013
+entry_point_name: ''
+experiment_id: '734812851892723199'
+lifecycle_stage: active
+run_id: c9efa2e75ecd4bac8f9225adb3694d54
+run_name: classy-crane-983
+run_uuid: c9efa2e75ecd4bac8f9225adb3694d54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743499833319
+status: 3
+tags: []
+user_id: codespace

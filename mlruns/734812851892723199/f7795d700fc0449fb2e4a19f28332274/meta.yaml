@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLFlow-hand-on/mlruns/734812851892723199/f7795d700fc0449fb2e4a19f28332274/artifacts
+end_time: 1743498756172
+entry_point_name: ''
+experiment_id: '734812851892723199'
+lifecycle_stage: active
+run_id: f7795d700fc0449fb2e4a19f28332274
+run_name: intrigued-cow-67
+run_uuid: f7795d700fc0449fb2e4a19f28332274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743498749107
+status: 3
+tags: []
+user_id: codespace

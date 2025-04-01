@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLFlow-hand-on/mlruns/734812851892723199/8779a5228ba94fea902c3a26c00eba59/artifacts
+end_time: 1743499839855
+entry_point_name: ''
+experiment_id: '734812851892723199'
+lifecycle_stage: active
+run_id: 8779a5228ba94fea902c3a26c00eba59
+run_name: debonair-gnu-28
+run_uuid: 8779a5228ba94fea902c3a26c00eba59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743499837058
+status: 3
+tags: []
+user_id: codespace

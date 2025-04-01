@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1743517768734
+current_stage: Staging
+description: null
+last_updated_timestamp: 1743518436368
+name: HousePricePredictor
+run_id: e41b67176595456292da7543b4bee41c
+run_link: null
+source: file:///workspaces/MLFlow-hand-on/mlruns/734812851892723199/e41b67176595456292da7543b4bee41c/artifacts/linear_regression_model
+status: READY
+status_message: null
+storage_location: file:///workspaces/MLFlow-hand-on/mlruns/734812851892723199/e41b67176595456292da7543b4bee41c/artifacts/linear_regression_model
+user_id: null
+version: 1

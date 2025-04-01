@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/MLFlow-hand-on/mlruns/734812851892723199
+creation_time: 1743498748711
+experiment_id: '734812851892723199'
+last_update_time: 1743498748711
+lifecycle_stage: active
+name: mlflow_model_tracking

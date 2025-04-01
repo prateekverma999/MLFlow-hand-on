@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLFlow-hand-on/mlruns/734812851892723199/e41b67176595456292da7543b4bee41c/artifacts
+end_time: 1743517768736
+entry_point_name: ''
+experiment_id: '734812851892723199'
+lifecycle_stage: active
+run_id: e41b67176595456292da7543b4bee41c
+run_name: delicate-mole-867
+run_uuid: e41b67176595456292da7543b4bee41c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743517765850
+status: 3
+tags: []
+user_id: codespace
